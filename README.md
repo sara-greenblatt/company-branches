@@ -5,7 +5,7 @@ Server: Simple node server to allow access from client
 
 Demo:
 
-![Screen View](./public/demo.jpg)
+![Screen View](./client/public/screen-view.jpg)
 
 ###
 Setup:
