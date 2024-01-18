@@ -1,5 +1,5 @@
-Basic web screen designed with React Framework, Redux and Redux-thunk middleware
-CSS: SCSS and react-bootstrap are in use to create responsive web screen
+Basic web screen designed with React Framework, Redux and Redux-thunk middleware  
+CSS: SCSS and react-bootstrap are in use to create responsive web screen  
 Server: Simple node server to allow access from client
 ###
 
@@ -17,7 +17,7 @@ run npm install on the root folder
 run npm start
 Note: concurrently is used to run server and client in parallel
    ###
-   You Are Done!!
+   You Are Done!! Open localhst:3000 in your browser.  
 ###
 ###
 Author: Sara Greenblatt
